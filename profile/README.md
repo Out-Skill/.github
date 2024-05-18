@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-We are building OutSkill AI - a personal AI desktop app that enables and helps users be more productive. More info at tryoutskill.com
+We are building OutSkill AI - a personal AI desktop app that enables and helps users be more productive. More info at https://tryoutskill.com
+
+Join us on Discord! https://discord.gg/Y3gCnnsZQH
 <!--
 
 **Here are some ideas to get you started:**
